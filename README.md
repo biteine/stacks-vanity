@@ -1,4 +1,4 @@
-# @biteine/stacks-vanity
+# stacks-vanity
 Vanity account addresses creation CLI tool for Stacks chain
 
 ## Installation
